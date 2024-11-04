@@ -1,4 +1,7 @@
-# Todo list
+# TODO list project
+using useDark library @vueuse/core and jsonplaceholder API
+
+state manager - VueX
 
 ## Project setup
 ```
@@ -20,5 +23,15 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### DEMO
+
+1. User list fot view todo list
+
+<img src="https://github.com/MsButovchenko/todo-vue/blob/main/demo/img.png"/>
+
+2. ToDo List for user
+
+<img src="https://github.com/MsButovchenko/todo-vue/blob/main/demo/img_1.png"/>
+
+
+
